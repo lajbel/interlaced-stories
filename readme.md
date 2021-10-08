@@ -1,6 +1,6 @@
 # Friday Night Funkin - Who
 
-UPCOMING INFO
+This is a mod fnf made with [Psych Engine]() 
 
 ## Build
 
@@ -8,7 +8,7 @@ UPCOMING
 
 ## Credits
 
-* Dieswyx - Furry Musician
+* Dieswyx - The Furry (ew) Junglist Musician Undercover 
 * J-productions - Sick Animator
-* MrPakoMan - Artist Baby
-* LaJBel - Femboy Code Rat
+* MrPakoMan - Artists and Animator (funny desc haha)
+* LaJBel - Femboy Code Rat help me 
