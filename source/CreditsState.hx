@@ -26,8 +26,9 @@ class CreditsState extends MusicBeatState
 	private static var creditsStuff:Array<Dynamic> = [
 		['Who Team'],
 		['Dieswyx', 'dieswyx', 'The Furry (ew) Junglist Musician Undercover', 'https://twitter.com/dieswyx', 0xFFFFDD33],
+		['J-Productions', 'j', 'Fun Animator (Not a furry + Awesome)', 'https://twitter.com/TheJ_Pro', 0xFFFFDD33],
+		['LaJBel', 'lajbel', 'Femboy Code Rat (help me)', 'https://twitter.com/lajbelms', 0xFFFFDD33],
 		['Pako', 'ninjamuffin99', 'Artist and Animator (funny desc haha)', 'https://mrpakoman.newgrounds.com/', 0xFFFFDD33],
-		['LaJBel', 'lajbel', 'Femboy Code Rat help me', 'https://twitter.com/lajbelms', 0xFFFFDD33],
 		[''],
 		["Funkin' Crew"],
 		['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	0xFFF73838],
