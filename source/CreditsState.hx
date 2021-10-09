@@ -24,7 +24,7 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [
-		['Who Team'],
+		['F for Fruits Team'],
 		['Dieswyx', 'dieswyx', 'The Furry (ew) Junglist Musician Undercover', 'https://twitter.com/dieswyx', 0xFFFFDD33],
 		['J-Productions', 'j', 'Fun Animator (Not a furry + Awesome)', 'https://twitter.com/TheJ_Pro', 0xFFFFDD33],
 		['MrPakoMan', 'pako', 'Artist and Animator (funny desc haha)', 'https://mrpakoman.newgrounds.com/', 0xFFFFDD33],
