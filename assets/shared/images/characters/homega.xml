@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Homega.png"><SubTexture name="Homega Idle0000" x="0" y="0" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0001" x="1027" y="0" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0002" x="2054" y="0" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0003" x="3081" y="0" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0004" x="4108" y="0" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0005" x="0" y="1027" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0006" x="1027" y="1027" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0007" x="2054" y="1027" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0008" x="3081" y="1027" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0009" x="4108" y="1027" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0010" x="0" y="2054" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0011" x="1027" y="2054" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0012" x="2054" y="2054" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0013" x="3081" y="2054" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Idle0014" x="4108" y="2054" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Left0000" x="0" y="3081" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Left0001" x="1027" y="3081" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Left0002" x="2054" y="3081" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Left0003" x="3081" y="3081" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Left0004" x="4108" y="3081" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Right0000" x="0" y="4108" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Right0001" x="1027" y="4108" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Right0002" x="2054" y="4108" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Right0003" x="3081" y="4108" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Right0004" x="4108" y="4108" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Up0000" x="0" y="5135" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Up0001" x="1027" y="5135" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Up0002" x="2054" y="5135" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Up0003" x="3081" y="5135" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Up0004" x="4108" y="5135" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Down0000" x="0" y="6162" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Down0001" x="1027" y="6162" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Down0002" x="2054" y="6162" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Down0003" x="3081" y="6162" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+<SubTexture name="Homega Down0004" x="4108" y="6162" width="1027" height="1027" frameX="0" frameY="0" frameWidth="1027" frameHeight="1027" />
+</TextureAtlas>

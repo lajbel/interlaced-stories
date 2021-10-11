@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dieswyx.png"><SubTexture name="Dieswyx Idle0000" x="0" y="0" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0001" x="688" y="0" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0002" x="1376" y="0" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0003" x="2064" y="0" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0004" x="2752" y="0" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0005" x="0" y="688" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0006" x="688" y="688" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0007" x="1376" y="688" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0008" x="2064" y="688" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0009" x="2752" y="688" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0010" x="0" y="1376" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0011" x="688" y="1376" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0012" x="1376" y="1376" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0013" x="2064" y="1376" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Idle0014" x="2752" y="1376" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Left0000" x="0" y="2064" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Left0001" x="688" y="2064" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Left0002" x="1376" y="2064" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Left0003" x="2064" y="2064" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Left0004" x="2752" y="2064" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Right0000" x="0" y="2752" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Right0001" x="688" y="2752" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Right0002" x="1376" y="2752" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Right0003" x="2064" y="2752" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Right0004" x="2752" y="2752" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Up0000" x="0" y="3440" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Up0001" x="688" y="3440" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Up0002" x="1376" y="3440" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Up0003" x="2064" y="3440" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Up0004" x="2752" y="3440" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Down0000" x="0" y="4128" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Down0001" x="688" y="4128" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Down0002" x="1376" y="4128" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Down0003" x="2064" y="4128" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+<SubTexture name="Dieswyx Down0004" x="2752" y="4128" width="688" height="688" frameX="0" frameY="0" frameWidth="688" frameHeight="688" />
+</TextureAtlas>
