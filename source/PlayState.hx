@@ -380,7 +380,7 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'spooky': //Week 2		
-				easterBG = new BGSprite('easterisland', -130, -40);
+				easterBG = new BGSprite('easterisland', -340, -90);
 				add(easterBG);
 
 			case 'philly': //Week 3

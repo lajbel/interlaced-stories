@@ -38,7 +38,7 @@ class DiscordClient
 			details: "In the Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Psych Engine"
+			largeImageText: "Interlaced Stories"
 		});
 	}
 
@@ -74,7 +74,7 @@ class DiscordClient
 			details: details,
 			state: state,
 			largeImageKey: 'icon',
-			largeImageText: "Engine Version: " + MainMenuState.psychEngineVersion,
+			largeImageText: "Mod Version: " + MainMenuState.psychEngineVersion,
 			smallImageKey : smallImageKey,
 			startTimestamp : Std.int(startTimestamp / 1000),
             endTimestamp : Std.int(endTimestamp / 1000)

@@ -431,9 +431,10 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					createCoolText(['Interlaced Stories'], 45);
+					createCoolText(["Interlaced Stories"], 45);
 				case 3:
-					addMoreText('by F for Fruits Team', 45);
+					addMoreText("by F for Fruits Team", 45);
+					addMoreText("idk");
 				case 4:
 					deleteCoolText();
 				case 5:

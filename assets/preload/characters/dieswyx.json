@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dieswyx Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dieswyx Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dieswyx Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dieswyx Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dieswyx Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dieswyx",
+	"position": [
+		-180,
+		80
+	],
+	"healthicon": "dieswyx",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		231,
+		227
+	],
+	"camera_position": [
+		-10,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
